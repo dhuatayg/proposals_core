@@ -1,0 +1,15 @@
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-11 19:37:57
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-13 07:02:23
+help
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-13 07:38:03
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-13 07:44:10
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-13 07:54:34
+help
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-13 10:54:20
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-13 11:59:24
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-13 12:15:02
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-13 12:26:49
+sarc importTransaction --protocol APX --version 01 --copy "design-files/PPCUTGE1-01-PE.xml"
+sarc importTransaction --protocol APX --version 01 --copy "design-files/PPCUTGE1-01-PE.xml"
+// Spring Roo 2.0.0.RELEASE [rev 4a2e9f1] log opened at 2021-09-22 11:30:35
+sarc importTransaction --protocol APX --version 01 --copy "design-files/PPCUTGE1-01-PE.xml"
